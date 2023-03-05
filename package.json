@@ -1,0 +1,24 @@
+{
+  "name": "shared-lib",
+  "version": "0.1.0",
+  "description": "testing",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nissrine-Hnainia/shared-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nissrine-Hnainia/shared-lib/issues"
+  },
+  "homepage": "https://github.com/Nissrine-Hnainia/shared-lib#readme",
+  "devDependencies": {
+    "@types/node": "^18.14.6",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
